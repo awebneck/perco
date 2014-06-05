@@ -3,7 +3,7 @@ package percolation
 import (
   "math/rand"
   "time"
-  "jeremypholland.com/perco/uf"
+  "github.com/awebneck/perco/uf"
 )
 
 type Perco struct {

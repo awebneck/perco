@@ -2,7 +2,7 @@ package output
 
 import (
   "fmt"
-  "jeremypholland.com/perco/percolation"
+  "github.com/awebneck/perco/percolation"
 )
 
 func RenderPerco(perco *percolation.Perco) {

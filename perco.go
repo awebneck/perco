@@ -5,8 +5,8 @@ import (
   "fmt"
   "strconv"
   "errors"
-  "jeremypholland.com/perco/percolation"
-  "jeremypholland.com/perco/output"
+  "github.com/awebneck/perco/percolation"
+  "github.com/awebneck/perco/output"
 )
 
 func main() {
